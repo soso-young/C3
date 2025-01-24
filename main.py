@@ -82,7 +82,7 @@ parser.add_argument("--device", type=str, help="[cuda:0, ..., cpu]", default="cu
 
 parser.add_argument("--emb_dim", type=int, default=32)
 parser.add_argument("--epoch", type=int, default=20)
-parser.add_argument("--batch_size", type=int, default=256)
+parser.add_argument("--batch_size", type=int, default=64)
 parser.add_argument("--drop_ratio", type=float, default=0.2)
 parser.add_argument("--lr", type=float, default=0.001)
 parser.add_argument("--weight_decay", type=float, default=0.0)
