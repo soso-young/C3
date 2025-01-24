@@ -1,5 +1,3 @@
-⭐main.py, model.py, run_all. sh 수정 필요.
-
 ## Datasets
 We use four public experimental datasets: CAMRa2011, Mafengwo, MafengwoS, MovieLens. 
 
