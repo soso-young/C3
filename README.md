@@ -1,7 +1,7 @@
 ## Datasets
 We use four public experimental datasets: CAMRa2011, Mafengwo, MafengwoS, MovieLens. 
 
-These four datasets' contents are in the data/ folder.
+The contents of these four datasets are in the data/ folder.
 
 ## Baseline
 For the baseline models, we utilize publicly available implementations as referenced in: [WWW2023GroupRecBaselines](https://github.com/FDUDSDE/WWW2023GroupRecBaselines)
