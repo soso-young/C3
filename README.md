@@ -1,3 +1,6 @@
+# PAKDD 2026 special session
+This is the code for the paper "**C<sup>3</sup>: Capturing Consensus with Contrastive Learning in Group Recommendation**" [[arxiv](https://arxiv.org/abs/2504.13703v3)]
+
 ## Datasets
 We use four public experimental datasets: CAMRa2011, Mafengwo, MafengwoS, MovieLens. 
 
